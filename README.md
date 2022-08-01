@@ -16,7 +16,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="" height=""/>
 </div>
----
 
 ### :woman_technologist: About Me :
 - :telescope: I am Iryna, an Appretience Web Developer with a high desire to learn and improve technical skills.
