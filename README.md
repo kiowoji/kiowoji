@@ -14,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=kiowoji&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="" height=""/>
+  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif"/>
 </div>
 
 ### :woman_technologist: About Me :
