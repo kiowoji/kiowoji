@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/iryna-murzak-02199a245">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/kiowoji/">
-    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=kiowoji&style=flat-square&color=blue" alt=""/>
 
@@ -22,8 +19,6 @@
 ---
 ### :woman_technologist: About Me :
 - :telescope: I am Iryna, an Appretience Web Developer with a high desire to learn and improve technical skills.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-murzak-02199a245)
 
 ---
 ### :fire: My Stats :
