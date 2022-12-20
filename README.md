@@ -9,16 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=kiowoji&style=flat-square&color=blue" alt=""/>
-
----
-<div align="center">
-  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif"/>
-</div>
-
----
-### :woman_technologist: About Me :
-- :telescope: I am Iryna, an Appretience Web Developer with a high desire to learn and improve technical skills.
 
 ---
 ### :fire: My Stats :
